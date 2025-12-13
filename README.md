@@ -1,14 +1,9 @@
 # Skin Cancer Detection Mobile App
 
-## Team
-- AI Model
-- Model Conversion
-- Mobile UI
-- Model Integration
-- Documentation
+This project is a mobile application that detects suspicious skin lesions using AI.
 
 ## Project Structure
-- model/ → AI training and models
-- mobile_app/ → Flutter application
-- backend/ → Optional API
-- docs/ → Documentation & presentation
+- model/ : AI training and models
+- mobile_app/ : Flutter mobile application
+- backend/ : Optional API
+- docs/ : Documentation and presentation
